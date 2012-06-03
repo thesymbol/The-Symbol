@@ -1,8 +1,8 @@
 <?php
 	/*
 	* Name:			create_hash.php
-	* Author: 		Marcus Orwén
-	* Copyright:	Copyright (c) 2012, Marcus Orwén
+	* Author: 		marcusorwen
+	* Copyright:	Copyright (c) 2012, marcusorwen
 	* License: 		GNU GPL v3
 	*/
 	
